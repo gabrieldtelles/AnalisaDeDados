@@ -1,0 +1,6 @@
+# Motor de limpeza (corrigir_planilha.py, validacoes.py, testar_correcoes.py)
+openpyxl>=3.1
+
+# App web (app.py, planilha_io.py, testar_app.py)
+streamlit>=1.44
+pandas>=2.0

@@ -1,0 +1,15 @@
+.claude/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.streamlit/secrets.toml
+
+# Saida gerada pelo script de limpeza
+data/*_corrigida.xlsx
+data/*_limpo.csv
+data/*_limpo.xlsx
+
+.DS_Store
